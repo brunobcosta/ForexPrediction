@@ -1,0 +1,31 @@
+{
+  "name": "forexprediction",
+  "version": "1.0.0",
+  "description": "Projeto em node.js para estudo de Machine Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunobcosta/ForexPrediction.git"
+  },
+  "keywords": [
+    "Machine",
+    "Learning",
+    "Forex",
+    "NodeJS"
+  ],
+  "author": "Bruno Costa",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/brunobcosta/ForexPrediction/issues"
+  },
+  "homepage": "https://github.com/brunobcosta/ForexPrediction#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "ml-regression": "^4.4.1",
+    "ml-regression-multivariate-linear": "^1.0.0",
+    "ml-svm": "^2.1.2"
+  }
+}
